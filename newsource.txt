@@ -18,5 +18,3 @@ class windowFunction {  def main(args: Array[String]) {
 
 
 }
-
-// hi my name is akash
